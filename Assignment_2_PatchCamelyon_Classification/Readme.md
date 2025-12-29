@@ -1,7 +1,5 @@
 # PatchCamelyon Image Classification  
 
-## Yash Bansal (2022CS51133)  
-
 **Dataset Reference:** [PatchCamelyon GitHub Repository](https://github.com/basveeling/pcam)  
 
 This repository contains the code for the COL780 Assignment 2: PatchCamelyon (PCam) Image Classification. The assignment involves classifying histopathology images using deep learning models.  
